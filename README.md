@@ -1,9 +1,9 @@
 # AI SaaS Builder 🚀
 
 <div align="center">
-  <img src="assets/dashboard.png" alt="Dashboard" width="800" />
-  <br />
   <img src="assets/login.png" alt="Login Page" width="800" />
+  <br />
+  <img src="assets/dashboard.png" alt="Dashboard" width="800" />
 </div>
 
 AI SaaS Builder is a powerful, production-ready MERN stack application generator. It leverages the **Google Gemini 1.5 Flash** model to turn natural language prompts into comprehensive project architectures, including backend routes, controllers, models, and frontend React components.
