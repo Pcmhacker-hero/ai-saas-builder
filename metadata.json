@@ -1,0 +1,6 @@
+{
+  "name": "AI SaaS Builder",
+  "description": "A production-ready no-code backend generator that turns plain English descriptions into full-stack application structures using Gemini AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
